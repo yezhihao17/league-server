@@ -1,0 +1,22 @@
+{
+  "name": "league-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezhihao17/league-server.git"
+  },
+  "author": "yzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezhihao17/league-server/issues"
+  },
+  "homepage": "https://github.com/yezhihao17/league-server#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
