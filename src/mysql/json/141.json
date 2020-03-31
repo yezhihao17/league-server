@@ -1,0 +1,263 @@
+{
+	"hero": {
+		"heroId": "141",
+		"name": "影流之镰",
+		"alias": "Kayn",
+		"title": "凯隐",
+		"roles": [
+			"fighter",
+			"assassin"
+		],
+		"shortBio": "悉达·凯隐是修行暗影魔法的精英，他战斗的意义，是为了实现自己真正的命运——为了有朝一日能够率领影流教派，开创艾欧尼亚霸业的新世代。凯隐挥舞着活体暗裔武器拉亚斯特，毫不在意它给自己身体和思想带来的腐化。这样后果只可能有两种：要么，凯隐让这把武器屈服于自己的意志；要么，这副恶毒的刀刃将他彻底吞噬，为符文之地的毁灭奏响序曲。",
+		"camp": "艾欧尼亚",
+		"attack": "10",
+		"defense": "6",
+		"magic": "1",
+		"difficulty": "8",
+		"hp": "585.0000",
+		"hpperlevel": "85.0000",
+		"mp": "410.0000",
+		"mpperlevel": "50.0000",
+		"movespeed": "340.0000",
+		"armor": "38.0000",
+		"armorperlevel": "3.3000",
+		"spellblock": "32.1000",
+		"spellblockperlevel": "1.2500",
+		"attackrange": "175.0000",
+		"hpregen": "8.0000",
+		"hpregenperlevel": "0.7500",
+		"mpregen": "11.5000",
+		"mpregenperlevel": "0.9500",
+		"crit": "0.0000",
+		"critperlevel": "0.0000",
+		"attackdamage": "68.0000",
+		"attackdamageperlevel": "3.3000",
+		"attackspeed": "0.6690",
+		"attackspeedperlevel": "2.7000",
+		"allytips": [
+			"-在选择你的形态之前，要看好己方队伍和敌方队伍的阵容构成。\n记住，附近的敌人可以看到你在哪个墙体内。"
+		],
+		"enemytips": [
+			"- 【裂舍影】需要凯隐先对目标造成伤害。尽量躲过【利刃纵贯】来防止他从远处施放【裂舍影】。\n",
+			"- 当凯隐在你附近的地形中时，你可以在他所在的地形边缘收到一个视觉警告。\n在凯隐处于【掠影步】状态下对他造成伤害，可缩短该状态的持续时间，或对他施加硬控效果（晕眩，魅惑，击飞等）来立刻终结【掠影步】状态。"
+		],
+		"heroVideoPath": "",
+		"isWeekFree": "1",
+		"damageType": "kPhysical",
+		"style": "1",
+		"difficultyL": "2",
+		"damage": "3",
+		"durability": "1",
+		"crowdControl": "1",
+		"mobility": "3",
+		"utility": "1",
+		"selectAudio": "https://game.gtimg.cn/images/lol/act/img/vo/choose/141.ogg",
+		"banAudio": "https://game.gtimg.cn/images/lol/act/img/vo/ban/141.ogg"
+	},
+	"skins": [
+		{
+			"skinId": "141000",
+			"heroId": "141",
+			"heroName": "影流之镰",
+			"heroTitle": "凯隐",
+			"name": "影流之镰",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "1",
+			"emblemsName": "base",
+			"description": "",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big141000.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small141000.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/141000.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp141000.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide141000.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "141001",
+			"heroId": "141",
+			"heroName": "影流之镰",
+			"heroTitle": "凯隐",
+			"name": "摄魂猎手 凯隐",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "common",
+			"description": "",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big141001.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small141001.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/141001.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp141001.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide141001.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "141002",
+			"heroId": "141",
+			"heroName": "影流之镰",
+			"heroTitle": "凯隐",
+			"name": "奥德赛 凯隐",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "Legend",
+			"description": "作为德玛-萨斯帝国万人敬仰的首席帝王，凯隐无情地追捕晨星组织的成员，期望能够重新抓住娑娜以了解传说中奥拉之门的秘密。﻿凯隐经常与他那把有灵性的异星镰刀，拉亚斯特拌嘴。但拉亚斯特自己的动机远比凯隐能意识到的更加可怕。",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big141002.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small141002.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/141002.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp141002.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide141002.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		}
+	],
+	"spells": [
+		{
+			"heroId": "141",
+			"spellKey": "e",
+			"name": "掠影步",
+			"description": "凯隐可以穿越地形。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/KaynE.png",
+			"abilityVideoPath": "champion-abilities/0141/ability_0141_E1.webm",
+			"dynamicDescription": "凯隐获得40%移动速度并可在地形中穿行1.5秒。当他第一次进入地形时，他可治疗自身100/115/130/145/160+（*0.4）生命值并且这个效果的持续时长为8/8.5/9/9.5/10秒。\n\n暗影刺客:获得更多移动速度和免疫减速效果。\n暗影刺客额外移动速度：80%\n\n现在，凯隐可以在掠影步结束之前回城了，只要凯隐不在墙里即可",
+			"cost": [
+				"90",
+				"90",
+				"90",
+				"90",
+				"90"
+			],
+			"costburn": "90",
+			"cooldown": [
+				"13",
+				"15",
+				"17",
+				"19",
+				"21"
+			],
+			"cooldownburn": "21/19/17/15/13",
+			"range": [
+				"400",
+				"400",
+				"400",
+				"400",
+				"400"
+			]
+		},
+		{
+			"heroId": "141",
+			"spellKey": "passive",
+			"name": "暗裔魔镰",
+			"description": "凯隐使用的是一把上古神兵，并且一直都在与附在武器上的暗裔灵体拉亚斯特为了身体的控制权而战斗着。要么暗裔化身将获胜，要么凯隐将统御拉亚斯特并变为暗影刺客。<br><hr>暗裔化身：治疗自身，数额相当于一部分对敌方英雄造成的技能伤害值。<br><br>暗影刺客：在与敌方英雄作战的最初几秒里，造成额外伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/passive/Kayn_Passive_Primary.png",
+			"abilityVideoPath": "champion-abilities/0141/ability_0141_P1.webm",
+			"dynamicDescription": "",
+			"cost": false,
+			"costburn": "",
+			"cooldown": false,
+			"cooldownburn": "",
+			"range": false
+		},
+		{
+			"heroId": "141",
+			"spellKey": "q",
+			"name": "巨镰横扫",
+			"description": "凯隐向前冲刺并打击附近的敌人。冲刺和打击都会造成伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/KaynQ.png",
+			"abilityVideoPath": "champion-abilities/0141/ability_0141_Q1.webm",
+			"dynamicDescription": "凯隐向前冲刺并打击附近的敌人。冲刺和打击都会造成60/80/100/120/140（*0.65AD）物理伤害。\n\n暗裔化身:更换为对造成目标一定百分比最大生命值的伤害。\n\n现在施放Q技能时也可以让其它技能进入施法队列",
+			"cost": [
+				"50",
+				"50",
+				"50",
+				"50",
+				"50"
+			],
+			"costburn": "50",
+			"cooldown": [
+				"5",
+				"5.5",
+				"6",
+				"6.5",
+				"7"
+			],
+			"cooldownburn": "7/6.5/6/5.5/5",
+			"range": [
+				"350",
+				"350",
+				"350",
+				"350",
+				"350"
+			]
+		},
+		{
+			"heroId": "141",
+			"spellKey": "r",
+			"name": "裂舍影",
+			"description": "凯隐隐藏在敌方身体内，在他破膛而出时造成巨量伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/KaynR.png",
+			"abilityVideoPath": "champion-abilities/0141/ability_0141_R1.webm",
+			"dynamicDescription": "凯隐入侵一名近期伤害过的敌方英雄，进入不可被选取状态，最多持续2.5秒。再次激活以提前结束这个效果。当【裂舍影】结束时，目标会受到150/205/350+（*1.75AD）物理伤害。\n\n暗影刺客:获得额外距离并在离开的时候刷新【暗裔魔镰】。\n\n暗裔化身:造成百分比最大生命值伤害并为自己提供相当于目标一部分最大生命值的治疗效果。\n\n给予暗影刺客形态下的凯隐在胶着的情况下更好的逃生机会\n暗影刺客破体前冲：300-500距离(基于暗影刺客形态下凯隐的光标位置)",
+			"cost": [
+				"100",
+				"100",
+				"100"
+			],
+			"costburn": "100",
+			"cooldown": [
+				"80",
+				"100",
+				"120"
+			],
+			"cooldownburn": "120/100/80",
+			"range": [
+				"550",
+				"550",
+				"550"
+			]
+		},
+		{
+			"heroId": "141",
+			"spellKey": "w",
+			"name": "利刃纵贯",
+			"description": "凯隐伤害并减速一条直线上的敌人。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/KaynW.png",
+			"abilityVideoPath": "champion-abilities/0141/ability_0141_W1.webm",
+			"dynamicDescription": "凯隐造成90/135/180/225/270（*1.3AD）物理伤害并使命中的敌人减速60%，减速效果会在接下来的1.5秒里持续衰减。\n\n暗影刺客:获得额外距离并可在【利刃纵贯】期间移动。\n\n暗裔化身:提供一次击飞效果。",
+			"cost": [
+				"60",
+				"65",
+				"70",
+				"75",
+				"80"
+			],
+			"costburn": "60/65/70/75/80",
+			"cooldown": [
+				"9",
+				"10",
+				"11",
+				"12",
+				"13"
+			],
+			"cooldownburn": "13/12/11/10/9",
+			"range": [
+				"700",
+				"700",
+				"700",
+				"700",
+				"700"
+			]
+		}
+	],
+	"version": "10.5",
+	"fileName": "141.js",
+	"fileTime": "2020-03-10 10:48:53"
+}

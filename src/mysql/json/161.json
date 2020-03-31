@@ -1,0 +1,286 @@
+{
+	"hero": {
+		"heroId": "161",
+		"name": "虚空之眼",
+		"alias": "Velkoz",
+		"title": "维克兹",
+		"roles": [
+			"mage"
+		],
+		"shortBio": "人们不太确定维克兹是否是符文之地上出现的第一个虚空生物，但可以确定的是没有第二个虚空生物能超过他的残忍和精明。他的同类通常都会吞噬或者破坏周围的一切，然而维克兹却一直在仔细观察并研究这个物质世界，以及世界上这些奇怪的好战生物，寻找虚空可以利用的弱点。但维克兹绝不是个被动的观察者，他会用致命的电浆射线回击任何威胁，甚至还能扰动世界本身的基础构造。",
+		"camp": "",
+		"attack": "2",
+		"defense": "2",
+		"magic": "10",
+		"difficulty": "8",
+		"hp": "520.0000",
+		"hpperlevel": "88.0000",
+		"mp": "469.0000",
+		"mpperlevel": "21.0000",
+		"movespeed": "340.0000",
+		"armor": "21.8800",
+		"armorperlevel": "3.5000",
+		"spellblock": "30.0000",
+		"spellblockperlevel": "0.5000",
+		"attackrange": "525.0000",
+		"hpregen": "5.5000",
+		"hpregenperlevel": "0.5500",
+		"mpregen": "8.0000",
+		"mpregenperlevel": "0.8000",
+		"crit": "0.0000",
+		"critperlevel": "0.0000",
+		"attackdamage": "54.9379",
+		"attackdamageperlevel": "3.1416",
+		"attackspeed": "0.6250",
+		"attackspeedperlevel": "1.3600",
+		"allytips": [
+			"- 在对线时，使用虚空裂隙来击杀小兵，同时在敌方英雄身上叠加有机体解构效果。然后你可以接其它技能。\n",
+			"- 侧身发射等离子裂变，并让它在最大距离处分裂，就能让这个技能命中初始施法距离之外的敌人，这也是一个值得去掌握的技巧。\n",
+			"- 要非常谨慎地挑选终极技能的使用时机。大部分英雄的技能都可以打断这个技能。"
+		],
+		"enemytips": [
+			"- 如果在战斗中对维克兹不管不顾的话，他就会非常致命。尽量趁早将他集火掉。\n",
+			"- 维克兹的机动能力相当低下，因此容易被 GANK。\n",
+			"- 晕眩、沉默和击飞效果都可以打断维克兹的生命形态瓦解射线。"
+		],
+		"heroVideoPath": "",
+		"isWeekFree": "0",
+		"damageType": "kMagic",
+		"style": "10",
+		"difficultyL": "2",
+		"damage": "3",
+		"durability": "1",
+		"crowdControl": "2",
+		"mobility": "1",
+		"utility": "1",
+		"selectAudio": "https://game.gtimg.cn/images/lol/act/img/vo/choose/161.ogg",
+		"banAudio": "https://game.gtimg.cn/images/lol/act/img/vo/ban/161.ogg"
+	},
+	"skins": [
+		{
+			"skinId": "161000",
+			"heroId": "161",
+			"heroName": "虚空之眼",
+			"heroTitle": "维克兹",
+			"name": "虚空之眼",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "1",
+			"emblemsName": "base",
+			"description": "",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big161000.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small161000.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/161000.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp161000.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide161000.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "161001",
+			"heroId": "161",
+			"heroName": "虚空之眼",
+			"heroTitle": "维克兹",
+			"name": "战地机甲 维克兹",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "Epic",
+			"description": "维克兹的战地机甲根据他死亡之前的本体设计而成，这些可怕的作战怪物肆意地向人口密集区域倾泻着自己的能量光束。他们还通过这些作战数据自动调节整支舰队的武器系统，让战地机甲的部队成为游击军更大的威胁。",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big161001.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small161001.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/161001.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp161001.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide161001.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "161002",
+			"heroId": "161",
+			"heroName": "虚空之眼",
+			"heroTitle": "维克兹",
+			"name": "苍穹之光 维克兹",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "Epic",
+			"description": "作为一个崇高的活体能量，维克兹本身就是象征着传奇、秘密与崇拜的符号。每隔一个千年他会失去神格，选择一名继任者接受他难以想象的强大意志，并将他晋升为拥有超凡力量的个体——苍穹之光。",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big161002.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small161002.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/161002.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp161002.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide161002.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "161003",
+			"heroId": "161",
+			"heroName": "虚空之眼",
+			"heroTitle": "维克兹",
+			"name": "这货不是维克兹",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "common",
+			"description": "我不是激光鱿鱼，我是人类！",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big161003.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small161003.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/161003.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp161003.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide161003.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		}
+	],
+	"spells": [
+		{
+			"heroId": "161",
+			"spellKey": "e",
+			"name": "构造分解",
+			"description": "维克兹让一个区域爆炸，击飞敌人，并将近处的敌人略微击退。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/VelkozE.png",
+			"abilityVideoPath": "champion-abilities/0161/ability_0161_E1.webm",
+			"dynamicDescription": "维克兹分解附近的一个区域，在短暂的延迟后，造成70/100/130/160/190(+0.3*AP)魔法伤害，并将命中的敌人击飞0.75秒。\r\n\r\n维克兹近处的任何敌人在被命中后，将被略微击退。",
+			"cost": [
+				"50",
+				"55",
+				"60",
+				"65",
+				"70"
+			],
+			"costburn": "50/55/60/65/70",
+			"cooldown": [
+				"12",
+				"13",
+				"14",
+				"15",
+				"16"
+			],
+			"cooldownburn": "16/15/14/13/12",
+			"range": [
+				"810",
+				"810",
+				"810",
+				"810",
+				"810"
+			]
+		},
+		{
+			"heroId": "161",
+			"spellKey": "passive",
+			"name": "有机体解构",
+			"description": "维克兹的技能会对命中的敌人施加<keywordName>有机体解构</keywordName>效果。如果累积到3层效果，敌人就会受到爆发性的真实伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/VelKoz_Passive.png",
+			"abilityVideoPath": "champion-abilities/0161/ability_0161_P1.webm",
+			"dynamicDescription": "",
+			"cost": false,
+			"costburn": "",
+			"cooldown": false,
+			"cooldownburn": "",
+			"range": false
+		},
+		{
+			"heroId": "161",
+			"spellKey": "q",
+			"name": "等离子裂变",
+			"description": "维克兹发射一束等离子，再次施放此技能或在命中一名敌人后，等离子束会一分为二。等离子束在命中时会造成伤害和减速效果。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/VelkozQ.png",
+			"abilityVideoPath": "champion-abilities/0161/ability_0161_Q1.webm",
+			"dynamicDescription": "维克兹发射一束等离子，造成80/120/160/200/240(+0.8*AP)魔法伤害，并使目标减速70%，这个减速效果会在1/1.4/1.8/2.2/2.6 秒里持续衰减。\r\n\r\n再次施放此技能，或者命中一名敌人后，等离子束会垂直分裂成两束。\r\n\r\n用这个技能击杀一个单位，就会返还50%法力消耗。",
+			"cost": [
+				"40",
+				"45",
+				"50",
+				"55",
+				"60"
+			],
+			"costburn": "40/45/50/55/60",
+			"cooldown": [
+				"7",
+				"7",
+				"7",
+				"7",
+				"7"
+			],
+			"cooldownburn": "7",
+			"range": [
+				"1050",
+				"1050",
+				"1050",
+				"1050",
+				"1050"
+			]
+		},
+		{
+			"heroId": "161",
+			"spellKey": "r",
+			"name": "生命形态瓦解射线",
+			"description": "维克兹释放一束被引导的光线跟随鼠标指针，可造成魔法伤害，持续2.5秒。【有机体解构】效果会研究敌方英雄，从而使他们受到真实伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/VelkozR.png",
+			"abilityVideoPath": "champion-abilities/0161/ability_0161_R1.webm",
+			"dynamicDescription": "被动：解构敌人的同时会研究该敌人7秒。普攻和所有技能都会刷新【研究】效果\r\n\r\n主动：维克兹引导一束能量射线跟随鼠标指针，持续2.5秒，最多造成共450/625/800（6月8日6.11版本更新，此前为500/725/950）（+1.125*AP）魔法伤害并使命中的单位减速20%。\r\n\r\n对已被研究的单位造成真实伤害。\r\n\r\n处于射线中的敌人每0.7秒积累一层【有机体解构】层数(最多3层)",
+			"cost": [
+				"100",
+				"100",
+				"100"
+			],
+			"costburn": "100",
+			"cooldown": [
+				"80",
+				"100",
+				"120"
+			],
+			"cooldownburn": "120/100/80",
+			"range": [
+				"1575",
+				"1575",
+				"1575"
+			]
+		},
+		{
+			"heroId": "161",
+			"spellKey": "w",
+			"name": "虚空裂隙",
+			"description": "维克兹开启一道虚空裂隙，造成初始爆发伤害，并在短暂的延迟后爆炸，造成第二段爆发伤害。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/VelkozW.png",
+			"abilityVideoPath": "champion-abilities/0161/ability_0161_W1.webm",
+			"dynamicDescription": "维克兹开启一道虚空裂隙，造成30/50/70/90/110(+0.15*AP)魔法伤害。在短暂的延迟后，裂隙会额外造成45/75/105/135/165(+0.25*AP)魔法伤害。两次命中都会增加一层有机体解构效果。\r\n\r\n每次施放【W虚空裂隙】时会有2秒冷却时间。",
+			"cost": [
+				"50",
+				"55",
+				"60",
+				"65",
+				"70"
+			],
+			"costburn": "50/55/60/65/70",
+			"cooldown": [
+				"1.5",
+				"1.5",
+				"1.5",
+				"1.5",
+				"1.5"
+			],
+			"cooldownburn": "1.5",
+			"range": [
+				"1050",
+				"1050",
+				"1050",
+				"1050",
+				"1050"
+			]
+		}
+	],
+	"version": "10.5",
+	"fileName": "161.js",
+	"fileTime": "2020-03-10 10:48:53"
+}

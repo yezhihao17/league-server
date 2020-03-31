@@ -1,0 +1,265 @@
+{
+	"hero": {
+		"heroId": "163",
+		"name": "岩雀",
+		"alias": "Taliyah",
+		"title": "塔莉垭",
+		"roles": [
+			"mage",
+			"support"
+		],
+		"shortBio": "塔莉垭是一位来自恕瑞玛的游牧民族的法师，孩子的好奇与大人的责任两股力量同时拉扯着她。她曾踏遍瓦洛兰的山山水水，只为寻得控制己身异能的法门，不过最近，她已经回到了故乡，保护生她养她的部族。有些人把她的温柔善意当做是懦弱的表现，最终也为自己的愚鲁付出了代价。塔莉垭青春稚嫩的举止背后，是一颗敢于移山填海的雄心，和一个堪能倾世的灵魂。",
+		"camp": "",
+		"attack": "1",
+		"defense": "7",
+		"magic": "8",
+		"difficulty": "5",
+		"hp": "532.0000",
+		"hpperlevel": "90.0000",
+		"mp": "425.0000",
+		"mpperlevel": "30.0000",
+		"movespeed": "335.0000",
+		"armor": "20.0000",
+		"armorperlevel": "3.5000",
+		"spellblock": "30.0000",
+		"spellblockperlevel": "0.5000",
+		"attackrange": "525.0000",
+		"hpregen": "7.0000",
+		"hpregenperlevel": "0.7000",
+		"mpregen": "9.3350",
+		"mpregenperlevel": "0.8500",
+		"crit": "0.0000",
+		"critperlevel": "0.0000",
+		"attackdamage": "58.0000",
+		"attackdamageperlevel": "3.3000",
+		"attackspeed": "0.6250",
+		"attackspeedperlevel": "1.3600",
+		"allytips": [
+			"- 尝试用【W岩突】来把敌人扔到【E撒石阵】上。\n",
+			"- 切记，没有必要总是搭乘【R墙幔】。\n",
+			"- 一旦你做出【瑞莱的冰晶节杖】，朝那些正在追击你的 敌人使用【Q石穿】能够很有效地让他们为此感到后悔。"
+		],
+		"enemytips": [
+			"- 当塔莉垭在线上放下【E撒石阵】时，要注意躲开她的【W岩突】。如果她把你扔到雷区中，就会有各种石头来打断你的骨头。\n",
+			"- 塔莉垭的【Q石穿】会朝一个方向锁定。如果她对你使用这个技能，就要尽快躲到边上去！"
+		],
+		"heroVideoPath": "",
+		"isWeekFree": "1",
+		"damageType": "kMagic",
+		"style": "10",
+		"difficultyL": "2",
+		"damage": "3",
+		"durability": "1",
+		"crowdControl": "2",
+		"mobility": "1",
+		"utility": "3",
+		"selectAudio": "https://game.gtimg.cn/images/lol/act/img/vo/choose/163.ogg",
+		"banAudio": "https://game.gtimg.cn/images/lol/act/img/vo/ban/163.ogg"
+	},
+	"skins": [
+		{
+			"skinId": "163000",
+			"heroId": "163",
+			"heroName": "岩雀",
+			"heroTitle": "塔莉垭",
+			"name": "岩雀",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "1",
+			"emblemsName": "base",
+			"description": "",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big163000.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small163000.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/163000.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp163000.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide163000.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "163001",
+			"heroId": "163",
+			"heroName": "岩雀",
+			"heroTitle": "塔莉垭",
+			"name": "弗雷尔卓德 塔莉垭",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "Epic",
+			"description": "",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big163001.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small163001.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/163001.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp163001.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide163001.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		},
+		{
+			"skinId": "163002",
+			"heroId": "163",
+			"heroName": "岩雀",
+			"heroTitle": "塔莉垭",
+			"name": "SSG 塔莉垭",
+			"chromas": "0",
+			"chromasBelongId": "0",
+			"isBase": "0",
+			"emblemsName": "Limited",
+			"description": "这个皮肤是为了纪念在2017年全球总决赛中Crown使用塔莉垭获得胜利的精彩表现。 ",
+			"mainImg": "https://game.gtimg.cn/images/lol/act/img/skin/big163002.jpg",
+			"iconImg": "https://game.gtimg.cn/images/lol/act/img/skin/small163002.jpg",
+			"loadingImg": "https://game.gtimg.cn/images/lol/act/img/skinloading/163002.jpg",
+			"videoImg": "https://game.gtimg.cn/images/lol/act/img/skinvideo/sp163002.jpg",
+			"sourceImg": "https://game.gtimg.cn/images/lol/act/img/guidetop/guide163002.jpg",
+			"vedioPath": "",
+			"suitType": "",
+			"publishTime": "",
+			"chromaImg": ""
+		}
+	],
+	"spells": [
+		{
+			"heroId": "163",
+			"spellKey": "e",
+			"name": "撒石阵",
+			"description": "塔莉垭创造一个可减速的雷区，石雷会在敌人使用突进技能时或被拖进/拖出该区域时爆炸。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/TaliyahE.png",
+			"abilityVideoPath": "champion-abilities/0163/ability_0163_E1.webm",
+			"dynamicDescription": "布下一个能感应突进的陷阱区域，使区域内的敌人受到 50/60/70/80/90 (+0.3法术强度)魔法伤害和20%(+0.04%*AP)减速效果。在4/4/4/4/4秒后，陷阱会爆炸，再次造成伤害。 \r\n\r\n敌方英雄在因突进、被拉扯或被推挤而经过撒石阵时就会触发陷阱，每触发一个陷阱就会受到(+0.2*AP)魔法伤害（最多受到4个陷阱的伤害，第一个陷阱之外的后续陷阱造成的伤害降低15%(最少55%伤害)）。",
+			"cost": [
+				"90",
+				"95",
+				"100",
+				"105",
+				"110"
+			],
+			"costburn": "90/95/100/105/110",
+			"cooldown": [
+				"8",
+				"10",
+				"12",
+				"14",
+				"16"
+			],
+			"cooldownburn": "16/14/12/10/8",
+			"range": [
+				"800",
+				"800",
+				"800",
+				"800",
+				"800"
+			]
+		},
+		{
+			"heroId": "163",
+			"spellKey": "passive",
+			"name": "浮石冲",
+			"description": "塔莉垭在墙体附近时会获得移动速度。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/passive/Taliyah_Passive.png",
+			"abilityVideoPath": "champion-abilities/0163/ability_0163_P1.webm",
+			"dynamicDescription": "",
+			"cost": false,
+			"costburn": "",
+			"cooldown": false,
+			"cooldownburn": "",
+			"range": false
+		},
+		{
+			"heroId": "163",
+			"spellKey": "q",
+			"name": "石穿",
+			"description": "塔莉垭朝目标方向扔出一串石弹，同时自身可自由移动。这个技能会将她脚下的地面变为掘石场。如果塔莉垭在掘石场上使用【Q石穿】，则只会扔出一个石弹。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/TaliyahQ.png",
+			"abilityVideoPath": "champion-abilities/0163/ability_0163_Q1.webm",
+			"dynamicDescription": "朝目标方向猛掷5块岩石，在命中的首个敌人附近的小区域内造成70/95/120/140/170(+0.45*AP)魔法伤害（12月27日6.24版本更新，此前为60/80/100/120/140(+0.4*AP)魔法伤害）。对相同单位的后续命中只造成40%伤害。会留下持续秒的掘石场 。 \r\n\r\n掘石场持续时间：45 秒\r\n\r\n多次命中伤害：对所有相同生物的后续命中只造成50%伤害\r\n\r\n【已移除】：不再造成范围伤害\r\n【已移除】：额外的岩石对小兵造成的伤害不再减少\r\n【新增】：在掘石场上，Q的消耗减少为1法",
+			"cost": [
+				"50",
+				"60",
+				"70",
+				"80",
+				"90"
+			],
+			"costburn": "50/60/70/80/90",
+			"cooldown": [
+				"3",
+				"4",
+				"5",
+				"6",
+				"7"
+			],
+			"cooldownburn": "7/6/5/4/3",
+			"range": [
+				"1000",
+				"1000",
+				"1000",
+				"1000",
+				"1000"
+			]
+		},
+		{
+			"heroId": "163",
+			"spellKey": "r",
+			"name": "墙幔",
+			"description": "塔莉垭创造出一个非常长的石墙，然后在石墙上冲浪。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/TaliyahR.png",
+			"abilityVideoPath": "champion-abilities/0163/ability_0163_R1.webm",
+			"dynamicDescription": "首次施放会创造一道石墙。再次施放就会立刻搭乘石墙。如果移动或受到来自英雄或防御塔的伤害，就会导致塔莉垭停下。 \r\n\r\n【R石幔】持续5秒。解除这个技能就会提前摧毁石墙。",
+			"cost": [
+				"100",
+				"100",
+				"100"
+			],
+			"costburn": "100",
+			"cooldown": [
+				"120",
+				"150",
+				"180"
+			],
+			"cooldownburn": "180/150/120",
+			"range": [
+				"3000",
+				"4500",
+				"6000"
+			]
+		},
+		{
+			"heroId": "163",
+			"spellKey": "w",
+			"name": "岩突",
+			"description": "塔莉垭在目标区域引发岩突，并将敌人扔向她所选的方向。",
+			"abilityIconPath": "https://game.gtimg.cn/images/lol/act/img/spell/TaliyahW.png",
+			"abilityVideoPath": "champion-abilities/0163/ability_0163_W1.webm",
+			"dynamicDescription": "首次施放：选择目标区域。在短暂的延迟后，区域内的敌人会被击飞并受到60/80/100/120/140(+0.4*AP)魔法伤害。 \r\n\r\n再次施放：选择一个方向。如果你这么做了，那么敌人就会被推向你所选的方向。",
+			"cost": [
+				"70",
+				"80",
+				"90",
+				"100",
+				"110"
+			],
+			"costburn": "70/80/90/100/110",
+			"cooldown": [
+				"12",
+				"13",
+				"14",
+				"15",
+				"16"
+			],
+			"cooldownburn": "16/15/14/13/12",
+			"range": [
+				"900",
+				"900",
+				"900",
+				"900",
+				"900"
+			]
+		}
+	],
+	"version": "10.5",
+	"fileName": "163.js",
+	"fileTime": "2020-03-10 10:48:53"
+}
